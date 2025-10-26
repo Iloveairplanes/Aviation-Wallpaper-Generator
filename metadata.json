@@ -1,0 +1,5 @@
+{
+  "name": "Aviation Wallpaper",
+  "description": "An application that generates and edits stunning 16:9 aviation-themed wallpapers using AI. Create your perfect background with a simple text prompt, then refine it with powerful editing commands.",
+  "requestFramePermissions": []
+}
